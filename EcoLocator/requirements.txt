@@ -1,0 +1,4 @@
+pillow
+matplotlib
+numpy
+tqdm
